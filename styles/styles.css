@@ -1,4 +1,4 @@
- a{
+ button{
     transition: 400ms;
     background-color: rgb(30, 30, 30);
     border: 2px solid #d0d0d0;
@@ -13,7 +13,7 @@
     cursor: pointer;
   }
 
-  a:hover {
+  button:hover {
     transition: 300ms;
     background-color: rgb(60, 60, 60);
   }

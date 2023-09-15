@@ -32,7 +32,7 @@
     cursor: pointer;
   }
 
-  .a:hover {
+  .button:hover {
     transition: 300ms;
     background-color: rgb(60, 60, 60);
   }

@@ -25,6 +25,7 @@
 
 .image:hover {
   transition: 300ms;
+  background-color: rgb(47, 99, 197);
   border-color: rgb(47, 99, 197);
 }
 

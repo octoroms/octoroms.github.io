@@ -7,7 +7,7 @@
 
 
 
-.downloadlink{
+.downloadlink {
   transition: 400ms;
   background-color: rgb(0, 23, 85);
   border: 2px solid #d0d0d0;
@@ -26,7 +26,7 @@
   background-color: darkcyan;
 }
  
- .button{
+ .button {
     transition: 400ms;
     background-color: rgb(30, 30, 30);
     border: 2px solid #d0d0d0;
@@ -46,7 +46,7 @@
     background-color: rgb(60, 60, 60);
   }
 
-  .downloadlink2{
+  .downloadlink2 {
     transition: 400ms;
     background-color: rgb(85, 0, 0);
     border: 2px solid #d0d0d0;
